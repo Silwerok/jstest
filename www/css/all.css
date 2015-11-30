@@ -1,0 +1,15 @@
+body {
+	margin: 0 auto;
+	color: #000;
+	width: 700px;
+	background: #fff;
+	font: 12px/14px arial, helvetica, sans-serif;
+}
+/* General reset */
+img {border-style: none;}
+a {
+	color: #001cc4;
+	text-decoration: none;
+}
+a:hover {text-decoration: underline;}
+/* General settings */
